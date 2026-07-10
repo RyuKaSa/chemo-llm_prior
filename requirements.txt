@@ -1,0 +1,11 @@
+# Core ML / chem stack — versions known compatible as of May 2026
+transformers>=4.40,<5.0
+torch>=2.2
+rdkit>=2024.3.1
+datasets>=2.18
+umap-learn>=0.5.5
+scikit-learn>=1.4
+matplotlib>=3.8
+numpy>=1.26,<2.0
+pandas>=2.2
+tqdm
