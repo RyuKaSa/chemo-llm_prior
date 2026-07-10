@@ -1,7 +1,5 @@
 # SIMDeLL pilot — ChemBERTa-2 latent space on QM9
 
-> Empirical 1-day pilot for the PhD audition (ED STIC Paris-Saclay, 29 May 2026).
-
 ## Motivation
 
 The SIMDeLL thesis hypothesis: chemo-LLMs pre-trained on large molecular corpora (ChemBERTa, MolBERT, etc.) already encode a structured representation of chemical space, exploitable by lightweight adaptation (PEFT) rather than retraining from scratch. Current SOTA on spectrum-to-structure (Molecular Transformer IR, NMIRacle) trains from zero and ignores this prior. This pilot tests the hypothesis directly.
