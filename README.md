@@ -21,7 +21,7 @@ The SIMDeLL thesis hypothesis: chemo-LLMs pre-trained on large molecular corpora
 
 ## Conclusion
 
-*One sentence to fill in after the run.*
+The separation between the groupes is very clear, this tells us the model was able to infer this chemical information viaa the training, and this constitutes usable information should the chemo-LLM be used for new methods, for example adding multi-modality via spectras, and having the spectras guide the generation of a molecule sequence. This already learned chemical prior could potentially drastically reduce training time and compute costs, eliminating the need to train from scratch a new model for the spectra-restrained generation.
 
 ## Repro
 
